@@ -1,0 +1,41 @@
+
+about.glovoapp.com
+admin. glovoapp.com
+beta. glovoapp.com
+beta-admin. glovoapp.com
+blog.glovoapp.com
+brothers. glovoapp.com
+business. glovoapp.com
+ci. glovoapp.com
+click.partner. glovoapp.com
+data.glovoapp.com
+db-login. glovoapp.com
+designrequest.glovoapp.com
+email.glovoapp.com
+evolve. glovoapp.com
+externaltravel. glovoapp.com
+fraud-adhoc01. glovoapp.com
+ftp.glovoapp.com
+giftcard. glovoapp.com
+glovers. glovoapp.com
+glovoapp.com
+goldenglovoawards. glovoapp.com
+ideas. glovoapp.com
+intranet.glovoapp.com
+jobs.glovoapp.com
+link.glovoapp.com
+monitor.glovoapp.com
+mta.partner. glovoapp.com
+mvn. glovoapp.com
+news.glovoapp.com
+partner. glovoapp.com
+partners. glovoapp.com
+reports.glovoapp.com
+security.glovoapp.com
+shiny.glovoapp.com
+stage.glovoapp.com
+stats.glovoapp.com
+support. glovoapp.com
+view.partner. glovoapp.com
+web. glovoapp.com
+www.glovoapp.com
